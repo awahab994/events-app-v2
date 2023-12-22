@@ -1,0 +1,4 @@
+.fillters {
+    display: flex;
+    flex-direction: row;
+}
